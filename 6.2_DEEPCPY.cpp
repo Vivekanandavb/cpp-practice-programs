@@ -24,3 +24,4 @@ int main() {
     b = a;                                 
     a.show(); b.show();
     return 0;
+}
